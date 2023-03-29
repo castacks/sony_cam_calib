@@ -1,3 +1,6 @@
 [submodule "src/sony_video_2_bagfile"]
 	path = src/sony_video_2_bagfile
 	url = git@github.com:castacks/sony_video_2_bagfile.git
+[submodule "src/sony_docker"]
+	path = src/sony_docker
+	url = git@github.com:castacks/sony_docker.git

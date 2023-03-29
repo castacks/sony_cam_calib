@@ -4,3 +4,6 @@
 [submodule "src/sony_docker"]
 	path = src/sony_docker
 	url = git@github.com:castacks/sony_docker.git
+[submodule "src/sony_cam_calib_exe"]
+	path = src/sony_cam_calib_exe
+	url = git@github.com:castacks/sony_cam_calib_exe.git

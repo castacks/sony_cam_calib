@@ -7,3 +7,6 @@
 [submodule "src/sony_cam_calib_exe"]
 	path = src/sony_cam_calib_exe
 	url = git@github.com:castacks/sony_cam_calib_exe.git
+[submodule "src/sony_cam_pose_vis_ros"]
+	path = src/sony_cam_pose_vis_ros
+	url = git@github.com:castacks/sony_cam_pose_vis_ros.git
